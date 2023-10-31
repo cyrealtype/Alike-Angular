@@ -1,7 +1,3 @@
 sources:
     - AlikeAngular.glyphs
 familyName: Alike Angular
-buildOTF: true
-buildTTF: true
-buildVariable: true
-buildWebfont: true
